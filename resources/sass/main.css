@@ -1,0 +1,114 @@
+html, body {
+  background-color: #fff;
+  color: #010102;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 200;
+  height: 100vh;
+  margin: 0;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.flex-center {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.position-ref {
+  position: relative;
+}
+
+.top-right {
+  position: absolute;
+  right: 10px;
+  top: 18px;
+}
+
+.content {
+  text-align: center;
+  margin-top: -200px;
+}
+
+.links > a {
+  color: #636b6f;
+  padding: 0 25px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.m-b-md {
+  margin-bottom: 30px;
+}
+
+footer {
+  background: #eee;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 50px;
+  text-transform: uppercase;
+  border-bottom: 4px solid;
+  padding: 12px 0;
+  font-weight: 900;
+}
+
+#form {
+  border: 3px double black;
+  border-radius: 8px;
+  padding-left: 20px;
+  height: 370px;
+  width: 360px;
+  position: relative;
+  left: 400px;
+}
+
+#nume {
+  margin-left: 20px;
+  margin-top: 0px;
+}
+
+#numar {
+  margin-left: 35px;
+}
+
+#date {
+  margin-left: 5px;
+}
+
+#zonamasa {
+  margin-left: 180px;
+}
+
+#submit {
+  font-size: 30px;
+  margin-left: 50px;
+  border-radius: 6px;
+  -webkit-box-shadow: 7px 6px 1px gray;
+          box-shadow: 7px 6px 1px gray;
+}
+
+#titlu {
+  margin-left: 450px;
+  text-shadow: 3px 3px 3px gray;
+  opacity: 0.8;
+}
+
+.id-rezervari {
+  margin-left: 200px;
+  padding-bottom: 150px;
+}
+/*# sourceMappingURL=main.css.map */
